@@ -21,8 +21,8 @@ Dibangun dengan Python, Like4Gram memanfaatkan platform [like4like.org](https://
 ```bash
 $ apt update -y && apt upgrade -y
 $ pkg install git python-pip
-$ git clone https://github.com/RozhakXD/Like4Gram
-$ cd "Like4Gram"
+$ git clone https://github.com/anas92642/Anas_King
+$ cd Anas_King
 $ pip install -r requirements.txt
 $ python Run.py
 ```
