@@ -1,5 +1,5 @@
 # Like4Gram 🚀✨
-![Like4Gram Logo](https://github.com/user-attachments/assets/3bf20427-8c84-4b3a-855a-f9f211ea4af3)
+![Like4Gram Logo]
 
 🌟 **Tools Otomatis untuk Mendapatkan Pengikut Instagram dengan Mudah dan Cepat!**  
 Dibangun dengan Python, Like4Gram memanfaatkan platform [like4like.org](https://www.like4like.org/) untuk mengotomatiskan misi follow dan menukar koin menjadi pengikut instagram.  
@@ -28,13 +28,10 @@ $ python Run.py
 ```
 
 ## 📸 Preview
-![FunPic_20250213](https://github.com/user-attachments/assets/fc797aec-da3e-46a3-8d85-4607ce502997)
 
 ## ❤️ Donasi (Support) 
 Dukung pengembangan Like4Gram dengan berdonasi melalui:  
-- [Trakteer ☕](https://trakteer.id/rozhak_official/tip)  
-- [PayPal 🌍](https://paypal.me/rozhak9)  
-- [Saweria 🚀](https://saweria.co/rozhak09)  
+
 
 *Apresiasi Anda sangat berarti untuk kelanjutan proyek ini!* 🙏
 
